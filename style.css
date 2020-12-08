@@ -52,3 +52,7 @@ nav{
     color: #e03a3c;
   }
    */
+.row > div{
+  border: 1px solid;
+  border-radius: 10px;
+}
